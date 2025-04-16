@@ -32,7 +32,7 @@ I’m a passionate **Software Developer** with a focus on building impactful and
 
 - Email: [candy.hipperboy112@gmail.com](mailto:candy.hipperboy112@gmail.com)
 - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-
+- Resume: [Download Resume (PDF)](https://your-link.com/resume.pdf)
 ---
 
 _Thanks for stopping by! Let's connect and create something awesome._
