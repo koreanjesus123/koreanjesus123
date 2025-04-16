@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Htut Khoung Soe.
 
-<!--
-**koreanjesus123/koreanjesus123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
 
-Here are some ideas to get you started:
+I’m a passionate **Software Developer** with a focus on building impactful and scalable applications. I love transforming ideas into reality using code, and I’m always looking to grow both technically and creatively.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Experienced in full-stack development
+- 🌱 Currently exploring AI/ML and cloud-native solutions
+- 🎯 Strong focus on performance, UX, and clean architecture
+- 📍 Based in Yangon.
+
+---
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+![Languages](https://skillicons.dev/icons?i=js,ts,py,java,html,css)
+
+**Frameworks & Tools:**  
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask)
+
+**DevOps / Cloud / Other:**  
+![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vscode)
+
+---
+
+
+
+## 📫 Get in Touch
+
+- Email: [candy.hipperboy112@gmail.com](mailto:candy.hipperboy112@gmail.com)
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+
+---
+
+_Thanks for stopping by! Let's connect and create something awesome._
