@@ -31,8 +31,8 @@ I’m a passionate **Software Developer** with a focus on building impactful and
 ## 📫 Get in Touch
 
 - Email: [candy.hipperboy112@gmail.com](mailto:candy.hipperboy112@gmail.com)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- Resume: [Download Resume (PDF)](https://your-link.com/resume.pdf)
+- LinkedIn: [linkedin.com/in/keke123](https://linkedin.com/in/yourname)
+- Resume: [Download My Resume (PDF)](https://github.com/koreanjesus123/koreanjesus123/blob/main/resume.pdf)
 ---
 
 _Thanks for stopping by! Let's connect and create something awesome._
